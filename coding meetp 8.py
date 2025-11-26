@@ -5,3 +5,4 @@ def all_continents(lst):
         return True 
     return False
     
+    
